@@ -2,7 +2,7 @@ const Bannerdata = [
     {
       bannerid : 1,
       bannertitle : "Deepak Yadav",
-      bannersubtitle : "UI/UX Designer | React JS Developer" ,
+      bannersubtitle : "Lead Designer (Sr. UI/UX Designer) " ,
       bannerbutton : "Contact Us",
       bannerimage : "../images/profile.png"
     },
