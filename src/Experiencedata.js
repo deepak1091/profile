@@ -2,7 +2,7 @@ const Experiencedata = [
     {
         expid : "1",
         compname : "Dotsquares India PVT LTD",
-        comppost : "Web Designer",
+        comppost : "Lead Designer (Sr. UI/UX Designer)",
         compyear : "2013/22-Present",
     },
     {
@@ -10,12 +10,6 @@ const Experiencedata = [
         compname : "Samyak It Solutions Pvt. Ltd.",
         comppost : "Web Designer",
         compyear : "2013",
-    },
-    {
-        expid : "3",
-        compname : "Live more Technologies Pvt Ltd.",
-        comppost : "Web Designer",
-        compyear : "2012",
     },
 
 ]
