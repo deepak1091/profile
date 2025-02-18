@@ -7,7 +7,7 @@ const Experiencedata = [
     },
     {
         expid : "2",
-        compname : "Samyak It Solutions Pvt. Ltd.",
+        compname : "Samyak It Solutions Pvt. Ltd",
         comppost : "Web Designer",
         compyear : "2013",
     },
